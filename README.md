@@ -1,2 +1,2 @@
-# FrankFrankUltimate Gothic and Mono
-Fonts I made mainly for myself.
+# FrankFrankUltimate Mono
+This is the branch for the monospaced font.
