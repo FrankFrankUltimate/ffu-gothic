@@ -1,2 +1,2 @@
-# FrankFrankUltimate Gothic and Mono
-Fonts I made mainly for myself.
+# FrankFrankUltimate Gothic
+This is the branch for the proportional font.
