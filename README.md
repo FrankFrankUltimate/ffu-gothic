@@ -1,2 +1,2 @@
-# FrankFrankUltimate Gothic
-A font I made mainly for myself.
+# FrankFrankUltimate Gothic and Mono
+Fonts I made mainly for myself.
