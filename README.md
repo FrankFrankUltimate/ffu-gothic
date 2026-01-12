@@ -1,5 +1,7 @@
-# FrankFrankUltimate Gothic and Mono
-Fonts I made mainly for myself.
+# FrankFrankUltimate Sera
+This is the branch for the serif font.
+
+Main page: https://github.com/FrankFrankUltimate/ffu-gothic
 
 Gothic branch: https://github.com/FrankFrankUltimate/ffu-gothic/tree/Gothic
 
