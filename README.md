@@ -6,3 +6,8 @@ Gothic branch: https://github.com/FrankFrankUltimate/ffu-gothic/tree/Gothic
 Mono branch: https://github.com/FrankFrankUltimate/ffu-gothic/tree/Mono
 
 Sera branch: https://github.com/FrankFrankUltimate/ffu-gothic/tree/Sera
+
+## Changelog
+*All times in Pacific Standard Time*
+### 15 Feb 2025 12:17 AM 
+Added changelog
