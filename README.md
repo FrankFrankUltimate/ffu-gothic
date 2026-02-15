@@ -9,5 +9,6 @@ Sera branch: https://github.com/FrankFrankUltimate/ffu-gothic/tree/Sera
 
 ## Changelog
 *All times in Pacific Standard Time*
-### 15 Feb 2025 12:17 AM 
-Added changelog
+### 15 Feb 2026 12:17 AM 
+* Added changelog
+* Fixed typo in changelog
